@@ -1,0 +1,3 @@
+add_server: the server for calculating "add"
+server: the original server in demo, server calls "add", which is add_server
+client: the original client in demo
